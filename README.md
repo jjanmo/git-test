@@ -17,3 +17,9 @@
 - master : 모든 깃 저장소에서 주어지는 `기본 브랜치 이름`을 말한다. 원격저장소인 Github에서 저장소를 생성하면 바로 생기는 것 역시 `master`라는 브랜치이다.
   > <u>기본값으로 master라는 이름을 갖는 것</u>으로서 굳이 바꾸지않기 때문에 이 이름을 갖는 것이다.
 - origin/master : `원격저장소 이름/브랜치 이름`을 나타낸다. 즉 origin/master 의미는 원격저장소의 master 브랜치를 말한다.
+
+## Git Intro
+
+## Git 기초
+
+## Git Branch
