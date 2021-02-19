@@ -18,8 +18,4 @@
   > <u>기본값으로 master라는 이름을 갖는 것</u>으로서 굳이 바꾸지않기 때문에 이 이름을 갖는 것이다.
 - origin/master : `원격저장소 이름/브랜치 이름`을 나타낸다. 즉 origin/master 의미는 원격저장소의 master 브랜치를 말한다.
 
-## Git Intro
-
-## Git 기초
-
-## Git Branch
+## 3장 Git Branch
