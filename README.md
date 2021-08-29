@@ -35,5 +35,5 @@ GIT을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 
 
 - Chapter2
 
-  - [Clone](/docs/chap2/start-git.md)
+  - [깃저장소만들기](/docs/chap2/깃저장소만들기.md)
   - [Commit Flow](/docs/chap2/commit-flow.md)
