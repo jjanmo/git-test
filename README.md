@@ -1,16 +1,8 @@
 # Gitlearn
 
-> ~~Inflearn이 아닌~~ `Gitlearn`
-
 > 단순히 **GIT**을 연습하는 저장소입니다. 이 곳은 회사에서 협업하는 과정에서 브랜치가 꼬이고 😭, 잦은 충돌로 인한 스트레스 😱 그로 인해 커밋 푸쉬를 할 때마다 찾아오는 불안감 😰. 자신감 하락 📉은 덤으로 오는 상황이 자주 발생함에 따라서 **GIT**에 대해서 좀 더 학습을 해봐야겠다는 자가진단의 산물이다.
 
-<br />
-
 ## Goal
-
-```
-터미널(명령어)을 통해서 GIT을 `완벽 제어(?)`해보자.
-```
 
 GIT을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 에디터나 IDE에서도 직관적인 서비스와 관련 익스텐션들이 많이 있다. 하지만 문제는 GIT을 이해하지 못하면 그 툴을 제대로 사용하지 못한다는 것이다. 그냥 `이렇게 되니까 이렇게 사용하면 되는거군` 이라는 경험적인 이해를 통해서 툴을 사용하게 되고, 이를 바탕으로 GIT을 이해하게 된다. 이러한 것이 절대 잘못되었다는 말은 아니다. 단지, 하다보면 이러한 갈증을 느낀다.
 
@@ -18,21 +10,31 @@ GIT을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 
 
 이를 알기 위해선, GIT이 왜 이렇게 작동하는지에 대한 개념을 익혀야한다고 생각했다. 맨날 사용하는 각각의 명령어들이 내부적으로 어떠한 동작을 하는지에 대해서 조금은 깊이있게 이해하게 된다면, 조금은 나은 **슬기로운 깃생활**을 할 수 있을 것이다.
 
+## Contents
+
+### [생활코딩 GIT](https://www.youtube.com/playlist?list=PLcDtUrBwapUOQzycPhaGUFnc-ogBOI6N_)
+
+<details>
+  <summary>Summary</summary>
+
+</details>
+
 <br />
 
-## 연습
+### [Git Pro 2판(e-book)](https://git-scm.com/book/ko/v2)
 
-> <u>알다가도 모르고, 모르면 더 모르는 **GIT**</u>에 대해서 지속적으로 연습해보자 😜
-
-> in `src` directory
-
-<br />
-
-## 정리
-
-> [Git Pro 2판(e-book)](https://git-scm.com/book/ko/v2)을 통한 학습 🤡
+<details>
+  <summary>Summary</summary>
 
 - Chapter2 : Git의 기초
 
-  - [깃저장소만들기](/docs/chap2/깃저장소만들기.md)
-  - [수정하고 저장하기](/docs/chap2/수정-저장.md)
+  - [깃저장소만들기](/summary/progit/chap2/깃저장소만들기.md)
+  - [수정하고 저장하기](/summary/progit/chap2/수정-저장.md)
+
+</details>
+
+<br />
+
+## Practice
+
+> src 디렉터리에서는 여러가지 상황을 연습해 볼 것이다.
