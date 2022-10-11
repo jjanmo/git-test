@@ -10,16 +10,7 @@ GIT을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 
 
 이를 알기 위해선, GIT이 왜 이렇게 작동하는지에 대한 개념을 익혀야한다고 생각했다. 맨날 사용하는 각각의 명령어들이 내부적으로 어떠한 동작을 하는지에 대해서 조금은 깊이있게 이해하게 된다면, 조금은 나은 **슬기로운 깃생활**을 할 수 있을 것이다.
 
-## Contents
-
-### [생활코딩 GIT](https://www.youtube.com/playlist?list=PLcDtUrBwapUOQzycPhaGUFnc-ogBOI6N_)
-
-<details>
-  <summary>Summary</summary>
-
-</details>
-
-<br />
+## What to study
 
 ### [Git Pro 2판(e-book)](https://git-scm.com/book/ko/v2)
 
@@ -31,10 +22,25 @@ GIT을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 
   - [깃저장소만들기](/summary/progit/chap2/깃저장소만들기.md)
   - [수정하고 저장하기](/summary/progit/chap2/수정-저장.md)
 
+- Chapter3 : Git 브랜치
+
+  -[브랜치란]
+
+  -[Rebase&CherryPick](/summary/progit/chap2/rebase&cherrypick.md)
+
 </details>
 
-<br />
+<hr />
 
-## Practice
+### Git 강의 with John Grib(a.k.a 기계인간)
 
-> src 디렉터리에서는 여러가지 상황을 연습해 볼 것이다.
+> Git이 어떻게 작동하는지를 알아보자!
+
+<details>
+  <summary>Summary</summary>
+
+- [데이터베이스](/summary/codesoom/database.md)
+
+- [레퍼런스](/summary/codesoom/reference.md)
+
+</details>
