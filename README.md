@@ -41,6 +41,8 @@ Git을 좀 더 편하게 이용하기 위한 많은 툴이 존재한다. 또한 
 
 - [레퍼런스](/summary/codesoom/reference.md)
 
+- [머지](/summary/codesoom/merge.md)
+
 - [명령어 모음](/summary/codesoom/command.md)
 
 </details>
